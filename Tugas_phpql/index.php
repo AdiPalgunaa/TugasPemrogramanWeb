@@ -16,7 +16,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark p-3">
             <div class="container">
-                <a class="navbar-brand" href="#">Pemrograman Web: nim nama</a>
+                <a class="navbar-brand" href="#">Pemrograman Web: 2101020009_I Made Wistika Adi Palguna</a>
                 <button class="btn btn-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                     Sidebar
                 </button>
